@@ -23,7 +23,7 @@ const Header = () => {
           ))}
       </Menu>
       <RightMenu>
-        <a href="#">Shop</a>
+        <a href="#">Shop Now</a>
         <a href="#">Tesla Account</a>
         <CustomMenu onClick={() => setBurgerStatus(true)} />
       </RightMenu>
