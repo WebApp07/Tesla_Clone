@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <Container>
       <Section
-        title="Model S"
+        title="Model S Tesla"
         description="Order Online for Touchless Delivery"
         backgroundImg="model-s.jpg"
         LeftBtnText="Custom order"
@@ -14,21 +14,21 @@ const Home = () => {
       />
 
       <Section
-        title="Model Y"
+        title="Model Y Tesla"
         description="Order Online for Touchless Delivery"
         backgroundImg="model-y.jpg"
         LeftBtnText="Custom order"
         rightbtnText="Existing inventory"
       />
       <Section
-        title="Model 3"
+        title="Model 3 Tesla"
         description="Order Online for Touchless Delivery"
         backgroundImg="model-3.jpg"
         LeftBtnText="Custom order"
         rightbtnText="Existing inventory"
       />
       <Section
-        title="Model X"
+        title="Model X Tesla"
         description="Order Online for Touchless Delivery"
         backgroundImg="model-x.jpg"
         LeftBtnText="Custom order"
