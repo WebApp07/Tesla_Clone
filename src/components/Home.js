@@ -20,6 +20,22 @@ const Home = () => {
         LeftBtnText="Custom order"
         rightbtnText="Existing inventory"
       />
+<Section
+  title="Model S Tesla"
+  description="Order Online for Touchless Delivery"
+  backgroundImg="model-s.jpg"
+  LeftBtnText="Custom order"
+  rightbtnText="Existing inventory"
+/>
+
+<Section
+  title="Model Y Tesla"
+  description="Schedule a Demo Drive"
+  backgroundImg="model-y.jpg"
+  LeftBtnText="Custom order"
+  rightbtnText="Existing inventory"
+/>
+
       <Section
         title="Model 3 Tesla"
         description="Order Online for Touchless Delivery"
